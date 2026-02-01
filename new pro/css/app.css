@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: black;
+}
+    body{
+        margin: 0;
+        background-color: white;
+    
+    }
+.header h1{
+    padding: 40px;
+    max-width: 500px;
+
+}
+.header button{
+    padding: 12px 20px;
+    background-color: red;
+    color: blue;
+    border: none;
+    border-radius: 6px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+
+}
+.image img{
+    width: 300px;
+}
