@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+}
+
+.block{
+    width: 500px;
+    height: 400px;
+}
+.block1{
+    background-color: red;
+    background-image: url(../icon/иьц.jpeg);
+    background-size:  auto 200px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
